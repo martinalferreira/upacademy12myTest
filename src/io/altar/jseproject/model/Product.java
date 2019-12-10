@@ -11,7 +11,6 @@ public class Product {
 	private int iva;
 	private float pvp;
 	
-	
 	public Product() {
 		super();
 	}
