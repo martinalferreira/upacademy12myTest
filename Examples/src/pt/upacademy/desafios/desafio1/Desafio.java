@@ -18,9 +18,7 @@ public class Desafio {
 			if (i%5 == 0) {
 				count5++;
 			}
-				
 		}
-		
 	}
 
 	public int getBig3Count() {
